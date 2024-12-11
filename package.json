@@ -1,6 +1,7 @@
 {
   "name": "furni-website-bootstrap",
   "private": true,
+  "homepage":"https://github.com/codingwizzzard/react-redux-builder"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
